@@ -11,21 +11,16 @@ return`
 *│▸* Image : Gawr Gura
 *│▸* Voice : Nina kawai
 *│*
-*│▸* SCRIPT BY
-*│*   Decode Denpa
-*│*   X-Dev Team
-*│*   Yogi PW
-*│*   Hexagon
-*│*   Dttaz
-*│*
-*│▸* FEATURE  BY  
-*│*   Decode Denpa
+*│▸* TQTO  
+*│*   ALLAH SWT
+*│*   ABAYOFC
+*│*   Decode DENPA
 *│*   Fernazer
 *│*   X-Dev Team
 *│*   Resta Gamteng
 *│*   Zeeone Ofc
 *│*   X-Dev Team
-*│*   Yudha perdana
+*│*   DITTAZ
 *│*   Xchilds
 *│*
 *╰────────────[*`
