@@ -5,21 +5,20 @@ Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
 *┴*
-*│▸* 1 hari = free       
-*│▸* 7 hari = Rp.7000        
-*│▸* 30 hari = Rp.15.000                 
-*│▸* Permanent = Rp.30.000               
+*│▸* PERMINGGU = 4K       
+*│▸* PERBULAN = 7K                      
+*│▸* PERMANENT = 10K               
 *┬*
 *╰────────────[*
 
 *╭─▸*「 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 」
 *┴*
-*│▸* Shopee : ${settings.Shopee}
-*│▸* Gopay : ${settings.Gopay}
-*│▸* Dana : ${settings.Dana}
-*│▸* Ovo : ${settings.Ovo}
+*│▸* Gopay : ${settings.Gopay} A/N ABAY STORE
+*│▸* Dana : ${settings.Dana} A/N R**I H*****A Y***I
 *┬*
 *╰────────────[*
+
+MINAT? WA.me/6287788069091
 
 𝗡𝗢𝗧𝗘 : 
 
@@ -27,11 +26,6 @@ Bot on 24 jam tapi kadang
 juga mati klo lgi ada error 
 atau lgi perbaikan bug.
 
-Kalo mau sewa bisa chat
-owner Bot, khusus untuk free 
-sewa 1 hari bisa pake fitur
-${prefix}freeoneday <Link Gc>
-tanpa harus chat owner
 `
 }
 
